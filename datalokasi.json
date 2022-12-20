@@ -1,0 +1,3343 @@
+[
+    {
+      
+      "key": "Kab. Aceh Barat",
+      "value": "Kab. Aceh Barat",
+      "text": "Kab. Aceh Barat - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Barat Daya",
+      "value": "Kab. Aceh Barat Daya",
+      "text": "Kab. Aceh Barat Daya - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Besar",
+      "value": "Kab. Aceh Besar",
+      "text": "Kab. Aceh Besar - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Jaya",
+      "value": "Kab. Aceh Jaya",
+      "text": "Kab. Aceh Jaya - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Selatan",
+      "value": "Kab. Aceh Selatan",
+      "text": "Kab. Aceh Selatan - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Singkil",
+      "value": "Kab. Aceh Singkil",
+      "text": "Kab. Aceh Singkil - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Tamiang",
+      "value": "Kab. Aceh Tamiang",
+      "text": "Kab. Aceh Tamiang - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Tengah",
+      "value": "Kab. Aceh Tengah",
+      "text": "Kab. Aceh Tengah - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Tenggara",
+      "value": "Kab. Aceh Tenggara",
+      "text": "Kab. Aceh Tenggara - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Timur",
+      "value": "Kab. Aceh Timur",
+      "text": "Kab. Aceh Timur - Aceh"
+    },
+    {
+      
+      "key": "Kab. Aceh Utara",
+      "value": "Kab. Aceh Utara",
+      "text": "Kab. Aceh Utara - Aceh"
+    },
+    {
+      
+      "key": "Kab. Bener Meriah",
+      "value": "Kab. Bener Meriah",
+      "text": "Kab. Bener Meriah - Aceh"
+    },
+    {
+      
+      "key": "Kab. Bireuen",
+      "value": "Kab. Bireuen",
+      "text": "Kab. Bireuen - Aceh"
+    },
+    {
+      
+      "key": "Kab. Gayo Lues",
+      "value": "Kab. Gayo Lues",
+      "text": "Kab. Gayo Lues - Aceh"
+    },
+    {
+      
+      "key": "Kab. Nagan Raya",
+      "value": "Kab. Nagan Raya",
+      "text": "Kab. Nagan Raya - Aceh"
+    },
+    {
+      
+      "key": "Kab. Pidie",
+      "value": "Kab. Pidie",
+      "text": "Kab. Pidie - Aceh"
+    },
+    {
+      
+      "key": "Kab. Pidie Jaya",
+      "value": "Kab. Pidie Jaya",
+      "text": "Kab. Pidie Jaya - Aceh"
+    },
+    {
+      
+      "key": "Kab. Simeulue",
+      "value": "Kab. Simeulue",
+      "text": "Kab. Simeulue - Aceh"
+    },
+    {
+      
+      "key": "Kota Banda Aceh",
+      "value": "Kota Banda Aceh",
+      "text": "Kota Banda Aceh - Aceh"
+    },
+    {
+      
+      "key": "Kota Langsa",
+      "value": "Kota Langsa",
+      "text": "Kota Langsa - Aceh"
+    },
+    {
+      
+      "key": "Kota Lhokseumawe",
+      "value": "Kota Lhokseumawe",
+      "text": "Kota Lhokseumawe - Aceh"
+    },
+    {
+      
+      "key": "Kota Sabang",
+      "value": "Kota Sabang",
+      "text": "Kota Sabang - Aceh"
+    },
+    {
+      
+      "key": "Kota Subulussalam",
+      "value": "Kota Subulussalam",
+      "text": "Kota Subulussalam - Aceh"
+    },
+  
+   
+    {
+      
+      "key": "Kab. Asahan",
+      "value": "Kab. Asahan",
+      "text": "Kab. Asahan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Batu Bara",
+      "value": "Kab. Batu Bara",
+      "text": "Kab. Batu Bara - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Dairi",
+      "value": "Kab. Dairi",
+      "text": "Kab. Dairi - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Deli Serdang",
+      "value": "Kab. Deli Serdang",
+      "text": "Kab. Deli Serdang - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Humbang Hasundutan",
+      "value": "Kab. Humbang Hasundutan",
+      "text": "Kab. Humbang Hasundutan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Karo",
+      "value": "Kab. Karo",
+      "text": "Kab. Karo - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Labuhanbatu",
+      "value": "Kab. Labuhanbatu",
+      "text": "Kab. Labuhanbatu - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Labuhanbatu Selatan",
+      "value": "Kab. Labuhanbatu Selatan",
+      "text": "Kab. Labuhanbatu Selatan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Labuhanbatu Utara",
+      "value": "Kab. Labuhanbatu Utara",
+      "text": "Kab. Labuhanbatu Utara - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Langkat",
+      "value": "Kab. Langkat",
+      "text": "Kab. Langkat - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Mandailing Natal",
+      "value": "Kab. Mandailing Natal",
+      "text": "Kab. Mandailing Natal - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Nias",
+      "value": "Kab. Nias",
+      "text": "Kab. Nias - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Nias Barat",
+      "value": "Kab. Nias Barat",
+      "text": "Kab. Nias Barat - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Nias Selatan",
+      "value": "Kab. Nias Selatan",
+      "text": "Kab. Nias Selatan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Nias Utara",
+      "value": "Kab. Nias Utara",
+      "text": "Kab. Nias Utara - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Padang Lawas",
+      "value": "Kab. Padang Lawas",
+      "text": "Kab. Padang Lawas - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Padang Lawas Utara",
+      "value": "Kab. Padang Lawas Utara",
+      "text": "Kab. Padang Lawas Utara - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Pakpak Bharat",
+      "value": "Kab. Pakpak Bharat",
+      "text": "Kab. Pakpak Bharat - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Samosir",
+      "value": "Kab. Samosir",
+      "text": "Kab. Samosir - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Simalungun",
+      "value": "Kab. Simalungun",
+      "text": "Kab. Simalungun - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Serdang Bedagai",
+      "value": "Kab. Serdang Bedagai",
+      "text": "Kab. Serdang Bedagai - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Tapanuli Selatan",
+      "value": "Kab. Tapanuli Selatan",
+      "text": "Kab. Tapanuli Selatan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Tapanuli Tengah",
+      "value": "Kab. Tapanuli Tengah",
+      "text": "Kab. Tapanuli Tengah - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Tapanuli Utara",
+      "value": "Kab. Tapanuli Utara",
+      "text": "Kab. Tapanuli Utara - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kab. Toba",
+      "value": "Kab. Toba",
+      "text": "Kab. Toba - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Binjai",
+      "value": "Kota Binjai",
+      "text": "Kota Binjai - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Gunungsitoli",
+      "value": "Kota Gunungsitoli",
+      "text": "Kota Gunungsitoli - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Medan",
+      "value": "Kota Medan",
+      "text": "Kota Medan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Padang Sidempuan",
+      "value": "Kota Padang Sidempuan",
+      "text": "Kota Padang Sidempuan - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Pematangsiantar",
+      "value": "Kota Pematangsiantar",
+      "text": "Kota Pematangsiantar - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Sibolga",
+      "value": "Kota Sibolga",
+      "text": "Kota Sibolga - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Tanjungbalai",
+      "value": "Kota Tanjungbalai",
+      "text": "Kota Tanjungbalai - Sumatra Utara"
+    },
+    {
+      
+      "key": "Kota Tebing Tinggi",
+      "value": "Kota Tebing Tinggi",
+      "text": "Kota Tebing Tinggi - Sumatra Utara"
+    },
+   
+    {
+      
+      "key": "Kab. Agam",
+      "value": "Kab. Agam",
+      "text": "Kab. Agam - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Dharmasraya",
+      "value": "Kab. Dharmasraya",
+      "text": "Kab. Dharmasraya - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Mentawai",
+      "value": "Kab. Kepulauan Mentawai",
+      "text": "Kab. Kepulauan Mentawai - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Lima Puluh Kota",
+      "value": "Kab. Lima Puluh Kota",
+      "text": "Kab. Lima Puluh Kota - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Padang Pariaman",
+      "value": "Kab. Padang Pariaman",
+      "text": "Kab. Padang Pariaman - Sumatra Barat"
+    },
+    {
+      
+      "key": "daKab. Pasamanta",
+      "value": "daKab. Pasamanta",
+      "text": "daKab. Pasamanta - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Pasaman Barat",
+      "value": "Kab. Pasaman Barat",
+      "text": "Kab. Pasaman Barat - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Pesisir Selatan",
+      "value": "Kab. Pesisir Selatan",
+      "text": "Kab. Pesisir Selatan - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Sijunjung",
+      "value": "Kab. Sijunjung",
+      "text": "Kab. Sijunjung - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Solok",
+      "value": "Kab. Solok",
+      "text": "Kab. Solok - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Solok Selatan",
+      "value": "Kab. Solok Selatan",
+      "text": "Kab. Solok Selatan - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kab. Tanah r",
+      "value": "Kab. Tanah r",
+      "text": "Kab. Tanah r - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Bukittinggi",
+      "value": "Kota Bukittinggi",
+      "text": "Kota Bukittinggi - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Padang",
+      "value": "Kota Padang",
+      "text": "Kota Padang - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Padang Panjang",
+      "value": "Kota Padang Panjang",
+      "text": "Kota Padang Panjang - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Pariaman",
+      "value": "Kota Pariaman",
+      "text": "Kota Pariaman - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Payakumbuh",
+      "value": "Kota Payakumbuh",
+      "text": "Kota Payakumbuh - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Sawahlunto",
+      "value": "Kota Sawahlunto",
+      "text": "Kota Sawahlunto - Sumatra Barat"
+    },
+    {
+      
+      "key": "Kota Solok",
+      "value": "Kota Solok",
+      "text": "Kota Solok - Sumatra Barat"
+    },
+   
+    {
+      
+      "key": "Kab. Bengkalis",
+      "value": "Kab. Bengkalis",
+      "text": "Kab. Bengkalis - Riau"
+    },
+    {
+      
+      "key": "Kab. Indragiri Hilir",
+      "value": "Kab. Indragiri Hilir",
+      "text": "Kab. Indragiri Hilir - Riau"
+    },
+    {
+      
+      "key": "Kab. Indragiri Hulu",
+      "value": "Kab. Indragiri Hulu",
+      "text": "Kab. Indragiri Hulu - Riau"
+    },
+    {
+      
+      "key": "Kab. Kampar",
+      "value": "Kab. Kampar",
+      "text": "Kab. Kampar - Riau"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Meranti",
+      "value": "Kab. Kepulauan Meranti",
+      "text": "Kab. Kepulauan Meranti - Riau"
+    },
+    {
+      
+      "key": "Kab. Kuantan Singingi",
+      "value": "Kab. Kuantan Singingi",
+      "text": "Kab. Kuantan Singingi - Riau"
+    },
+    {
+      
+      "key": "Kab. Pelalawan",
+      "value": "Kab. Pelalawan",
+      "text": "Kab. Pelalawan - Riau"
+    },
+    {
+      
+      "key": "Kab. Rokan Hilir",
+      "value": "Kab. Rokan Hilir",
+      "text": "Kab. Rokan Hilir - Riau"
+    },
+    {
+      
+      "key": "Kab. Rokan Hulu",
+      "value": "Kab. Rokan Hulu",
+      "text": "Kab. Rokan Hulu - Riau"
+    },
+    {
+      
+      "key": "Kab. Siak",
+      "value": "Kab. Siak",
+      "text": "Kab. Siak - Riau"
+    },
+    {
+      
+      "key": "Kota Dumai",
+      "value": "Kota Dumai",
+      "text": "Kota Dumai - Riau"
+    },
+    {
+      
+      "key": "Kota Pekanbaru",
+      "value": "Kota Pekanbaru",
+      "text": "Kota Pekanbaru - Riau"
+    },
+   
+    {
+      
+      "key": "Kab. Bintan",
+      "value": "Kab. Bintan",
+      "text": "Kab. Bintan - Kepulauan Riau"
+    },
+    {
+      
+      "key": "Kab. Karimun",
+      "value": "Kab. Karimun",
+      "text": "Kab. Karimun - Kepulauan Riau"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Anambas",
+      "value": "Kab. Kepulauan Anambas",
+      "text": "Kab. Kepulauan Anambas - Kepulauan Riau"
+    },
+    {
+      
+      "key": "Kab. Lingga",
+      "value": "Kab. Lingga",
+      "text": "Kab. Lingga - Kepulauan Riau"
+    },
+    {
+      
+      "key": "Kab. Natuna",
+      "value": "Kab. Natuna",
+      "text": "Kab. Natuna - Kepulauan Riau"
+    },
+    {
+      
+      "key": "Kota Batam",
+      "value": "Kota Batam",
+      "text": "Kota Batam - Kepulauan Riau"
+    },
+    {
+      
+      "key": "Kota Tanjungpinang",
+      "value": "Kota Tanjungpinang",
+      "text": "Kota Tanjungpinang - Kepulauan Riau"
+    },
+   
+    {
+      
+      "key": "Kab. Batanghari",
+      "value": "Kab. Batanghari",
+      "text": "Kab. Batanghari - Jambi"
+    },
+    {
+      
+      "key": "Kab. Bungo",
+      "value": "Kab. Bungo",
+      "text": "Kab. Bungo - Jambi"
+    },
+    {
+      
+      "key": "Kab. Kerinci",
+      "value": "Kab. Kerinci",
+      "text": "Kab. Kerinci - Jambi"
+    },
+    {
+      
+      "key": "Kab. Merangin",
+      "value": "Kab. Merangin",
+      "text": "Kab. Merangin - Jambi"
+    },
+    {
+      
+      "key": "Kab. Muaro Jambi",
+      "value": "Kab. Muaro Jambi",
+      "text": "Kab. Muaro Jambi - Jambi"
+    },
+    {
+      
+      "key": "Kab. Sarolangun",
+      "value": "Kab. Sarolangun",
+      "text": "Kab. Sarolangun - Jambi"
+    },
+    {
+      
+      "key": "Kab. Tanjung Jabung Barat",
+      "value": "Kab. Tanjung Jabung Barat",
+      "text": "Kab. Tanjung Jabung Barat - Jambi"
+    },
+    {
+      
+      "key": "Kab. Tanjung Jabung Timur",
+      "value": "Kab. Tanjung Jabung Timur",
+      "text": "Kab. Tanjung Jabung Timur - Jambi"
+    },
+    {
+      
+      "key": "Kab. Tebo",
+      "value": "Kab. Tebo",
+      "text": "Kab. Tebo - Jambi"
+    },
+    {
+      
+      "key": "Kota Jambi",
+      "value": "Kota Jambi",
+      "text": "Kota Jambi - Jambi"
+    },
+    {
+      
+      "key": "Kota Sungai Penuh",
+      "value": "Kota Sungai Penuh",
+      "text": "Kota Sungai Penuh - Jambi"
+    },
+   
+    {
+      
+      "key": "Kab. Bengkulu Selatan",
+      "value": "Kab. Bengkulu Selatan",
+      "text": "Kab. Bengkulu Selatan - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Bengkulu Tengah",
+      "value": "Kab. Bengkulu Tengah",
+      "text": "Kab. Bengkulu Tengah - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Bengkulu Utara",
+      "value": "Kab. Bengkulu Utara",
+      "text": "Kab. Bengkulu Utara - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Kaur",
+      "value": "Kab. Kaur",
+      "text": "Kab. Kaur - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Kepahiang",
+      "value": "Kab. Kepahiang",
+      "text": "Kab. Kepahiang - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Lebong",
+      "value": "Kab. Lebong",
+      "text": "Kab. Lebong - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Mukomuko",
+      "value": "Kab. Mukomuko",
+      "text": "Kab. Mukomuko - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Rejang Lebong",
+      "value": "Kab. Rejang Lebong",
+      "text": "Kab. Rejang Lebong - Bengkulu"
+    },
+    {
+      
+      "key": "Kab. Seluma",
+      "value": "Kab. Seluma",
+      "text": "Kab. Seluma - Bengkulu"
+    },
+    {
+      
+      "key": "Kota Bengkulu",
+      "value": "Kota Bengkulu",
+      "text": "Kota Bengkulu - Bengkulu"
+    },
+   
+    {
+      
+      "key": "Kab. Banyuasin",
+      "value": "Kab. Banyuasin",
+      "text": "Kab. Banyuasin - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Empat Lawang",
+      "value": "Kab. Empat Lawang",
+      "text": "Kab. Empat Lawang - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Lahat",
+      "value": "Kab. Lahat",
+      "text": "Kab. Lahat - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Muara Enim",
+      "value": "Kab. Muara Enim",
+      "text": "Kab. Muara Enim - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Musi Banyuasin",
+      "value": "Kab. Musi Banyuasin",
+      "text": "Kab. Musi Banyuasin - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Musi Rawas",
+      "value": "Kab. Musi Rawas",
+      "text": "Kab. Musi Rawas - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Musi Rawas Utara",
+      "value": "Kab. Musi Rawas Utara",
+      "text": "Kab. Musi Rawas Utara - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Ogan Ilir",
+      "value": "Kab. Ogan Ilir",
+      "text": "Kab. Ogan Ilir - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Ogan Komering Ilir",
+      "value": "Kab. Ogan Komering Ilir",
+      "text": "Kab. Ogan Komering Ilir - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Ogan Komering Ulu",
+      "value": "Kab. Ogan Komering Ulu",
+      "text": "Kab. Ogan Komering Ulu - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Ogan Komering Ulu Selatan",
+      "value": "Kab. Ogan Komering Ulu Selatan",
+      "text": "Kab. Ogan Komering Ulu Selatan - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Ogan Komering Ulu Timur",
+      "value": "Kab. Ogan Komering Ulu Timur",
+      "text": "Kab. Ogan Komering Ulu Timur - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Penukal Abab Lematang Ilir",
+      "value": "Kab. Penukal Abab Lematang Ilir",
+      "text": "Kab. Penukal Abab Lematang Ilir - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kota Lubuklinggau",
+      "value": "Kota Lubuklinggau",
+      "text": "Kota Lubuklinggau - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kota Pagar Alam",
+      "value": "Kota Pagar Alam",
+      "text": "Kota Pagar Alam - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kota Palembang",
+      "value": "Kota Palembang",
+      "text": "Kota Palembang - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kota Prabumulih",
+      "value": "Kota Prabumulih",
+      "text": "Kota Prabumulih - Sumatra Selatan"
+    },
+    {
+      
+      "key": "Kab. Bangka",
+      "value": "Kab. Bangka",
+      "text": "Kab. Bangka - Kepulauan Bangka Belitung"
+    },
+    {
+      
+      "key": "Kab. Bangka Barat",
+      "value": "Kab. Bangka Barat",
+      "text": "Kab. Bangka Barat - Kepulauan Bangka Belitung"
+    },
+    {
+      
+      "key": "Kab. Bangka Selatan",
+      "value": "Kab. Bangka Selatan",
+      "text": "Kab. Bangka Selatan - Kepulauan Bangka Belitung"
+    },
+    {
+      
+      "key": "Kab. Bangka Tengah",
+      "value": "Kab. Bangka Tengah",
+      "text": "Kab. Bangka Tengah - Kepulauan Bangka Belitung"
+    },
+    {
+      
+      "key": "Kab. Belitung",
+      "value": "Kab. Belitung",
+      "text": "Kab. Belitung - Kepulauan Bangka Belitung"
+    },
+    {
+      
+      "key": "Kab. Belitung Timur",
+      "value": "Kab. Belitung Timur",
+      "text": "Kab. Belitung Timur - Kepulauan Bangka Belitung"
+    },
+    {
+      
+      "key": "Kota Pangkal Pinang",
+      "value": "Kota Pangkal Pinang",
+      "text": "Kota Pangkal Pinang - Kepulauan Bangka Belitung"
+    },
+   
+    {
+      
+      "key": "Kab. Lampung Barat",
+      "value": "Kab. Lampung Barat",
+      "text": "Kab. Lampung Barat - Lampung"
+    },
+    {
+      
+      "key": "Kab. Lampung Selatan",
+      "value": "Kab. Lampung Selatan",
+      "text": "Kab. Lampung Selatan - Lampung"
+    },
+    {
+      
+      "key": "Kab. Lampung Tengah",
+      "value": "Kab. Lampung Tengah",
+      "text": "Kab. Lampung Tengah - Lampung"
+    },
+    {
+      
+      "key": "Kab. Lampung Timur",
+      "value": "Kab. Lampung Timur",
+      "text": "Kab. Lampung Timur - Lampung"
+    },
+    {
+      
+      "key": "Kab. Lampung Utara",
+      "value": "Kab. Lampung Utara",
+      "text": "Kab. Lampung Utara - Lampung"
+    },
+    {
+      
+      "key": "Kab. Mesuji",
+      "value": "Kab. Mesuji",
+      "text": "Kab. Mesuji - Lampung"
+    },
+    {
+      
+      "key": "Kab. Pesawaran",
+      "value": "Kab. Pesawaran",
+      "text": "Kab. Pesawaran - Lampung"
+    },
+    {
+      
+      "key": "Kab. Pesisir Barat",
+      "value": "Kab. Pesisir Barat",
+      "text": "Kab. Pesisir Barat - Lampung"
+    },
+    {
+      
+      "key": "Kab. Pringsewu",
+      "value": "Kab. Pringsewu",
+      "text": "Kab. Pringsewu - Lampung"
+    },
+    {
+      
+      "key": "Kab. Tanggamus",
+      "value": "Kab. Tanggamus",
+      "text": "Kab. Tanggamus - Lampung"
+    },
+    {
+      
+      "key": "Kab. Tulang Bawang",
+      "value": "Kab. Tulang Bawang",
+      "text": "Kab. Tulang Bawang - Lampung"
+    },
+    {
+      
+      "key": "Kab. Tulang Bawang Barat",
+      "value": "Kab. Tulang Bawang Barat",
+      "text": "Kab. Tulang Bawang Barat - Lampung"
+    },
+    {
+      
+      "key": "Kab. Way Kanan",
+      "value": "Kab. Way Kanan",
+      "text": "Kab. Way Kanan - Lampung"
+    },
+    {
+      
+      "key": "Kota Bandar Lampung",
+      "value": "Kota Bandar Lampung",
+      "text": "Kota Bandar Lampung - Lampung"
+    },
+    {
+      
+      "key": "Kota Metro",
+      "value": "Kota Metro",
+      "text": "Kota Metro - Lampung"
+    },
+   
+    {
+      
+      "key": "Kab. Lebak",
+      "value": "Kab. Lebak",
+      "text": "Kab. Lebak - Banten"
+    },
+    {
+      
+      "key": "Kab. Pandeglang",
+      "value": "Kab. Pandeglang",
+      "text": "Kab. Pandeglang - Banten"
+    },
+    {
+      
+      "key": "Kab. Serang",
+      "value": "Kab. Serang",
+      "text": "Kab. Serang - Banten"
+    },
+    {
+      
+      "key": "Kab. Tangerang",
+      "value": "Kab. Tangerang",
+      "text": "Kab. Tangerang - Banten"
+    },
+    {
+      
+      "key": "Kota Cilegon",
+      "value": "Kota Cilegon",
+      "text": "Kota Cilegon - Banten"
+    },
+    {
+      
+      "key": "Kota Serang",
+      "value": "Kota Serang",
+      "text": "Kota Serang - Banten"
+    },
+    {
+      
+      "key": "Kota Tangerang",
+      "value": "Kota Tangerang",
+      "text": "Kota Tangerang - Banten"
+    },
+    {
+      
+      "key": "Kota Tangerang Selatan",
+      "value": "Kota Tangerang Selatan",
+      "text": "Kota Tangerang Selatan - Banten"
+    },
+   
+    {
+      
+      "key": "Kab. Bandung",
+      "value": "Kab. Bandung",
+      "text": "Kab. Bandung - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Bandung Barat",
+      "value": "Kab. Bandung Barat",
+      "text": "Kab. Bandung Barat - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Bekasi",
+      "value": "Kab. Bekasi",
+      "text": "Kab. Bekasi - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Bogor",
+      "value": "Kab. Bogor",
+      "text": "Kab. Bogor - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Ciamis",
+      "value": "Kab. Ciamis",
+      "text": "Kab. Ciamis - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Cianjur",
+      "value": "Kab. Cianjur",
+      "text": "Kab. Cianjur - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Cirebon",
+      "value": "Kab. Cirebon",
+      "text": "Kab. Cirebon - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Garut",
+      "value": "Kab. Garut",
+      "text": "Kab. Garut - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Indramayu",
+      "value": "Kab. Indramayu",
+      "text": "Kab. Indramayu - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Karawang",
+      "value": "Kab. Karawang",
+      "text": "Kab. Karawang - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Kuningan",
+      "value": "Kab. Kuningan",
+      "text": "Kab. Kuningan - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Majalengka",
+      "value": "Kab. Majalengka",
+      "text": "Kab. Majalengka - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Pangandaran",
+      "value": "Kab. Pangandaran",
+      "text": "Kab. Pangandaran - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Purwakarta",
+      "value": "Kab. Purwakarta",
+      "text": "Kab. Purwakarta - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Subang",
+      "value": "Kab. Subang",
+      "text": "Kab. Subang - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Sukabumi",
+      "value": "Kab. Sukabumi",
+      "text": "Kab. Sukabumi - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Sumedang",
+      "value": "Kab. Sumedang",
+      "text": "Kab. Sumedang - Jawa Barat"
+    },
+    {
+      
+      "key": "Kab. Tasikmalaya",
+      "value": "Kab. Tasikmalaya",
+      "text": "Kab. Tasikmalaya - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Bandung",
+      "value": "Kota Bandung",
+      "text": "Kota Bandung - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Banjar",
+      "value": "Kota Banjar",
+      "text": "Kota Banjar - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Bekasi",
+      "value": "Kota Bekasi",
+      "text": "Kota Bekasi - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Bogor",
+      "value": "Kota Bogor",
+      "text": "Kota Bogor - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Cimahi",
+      "value": "Kota Cimahi",
+      "text": "Kota Cimahi - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Cirebon",
+      "value": "Kota Cirebon",
+      "text": "Kota Cirebon - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Depok",
+      "value": "Kota Depok",
+      "text": "Kota Depok - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Sukabumi",
+      "value": "Kota Sukabumi",
+      "text": "Kota Sukabumi - Jawa Barat"
+    },
+    {
+      
+      "key": "Kota Tasikmalaya",
+      "value": "Kota Tasikmalaya",
+      "text": "Kota Tasikmalaya - Jawa Barat"
+    },
+   
+    {
+      
+      "key": "Kab. Administrasi Kepulauan Seribu",
+      "value": "Kab. Administrasi Kepulauan Seribu",
+      "text": "Kab. Administrasi Kepulauan Seribu - DKI Jakarta"
+    },
+    {
+      
+      "key": "Kota Administrasi Jakarta Barat",
+      "value": "Kota Administrasi Jakarta Barat",
+      "text": "Kota Administrasi Jakarta Barat - DKI Jakarta"
+    },
+    {
+      
+      "key": "Kota Administrasi Jakarta Pusat",
+      "value": "Kota Administrasi Jakarta Pusat",
+      "text": "Kota Administrasi Jakarta Pusat - DKI Jakarta"
+    },
+    {
+      
+      "key": "Kota Administrasi Jakarta Selatan",
+      "value": "Kota Administrasi Jakarta Selatan",
+      "text": "Kota Administrasi Jakarta Selatan - DKI Jakarta"
+    },
+    {
+      
+      "key": "Kota Administrasi Jakarta Timur",
+      "value": "Kota Administrasi Jakarta Timur",
+      "text": "Kota Administrasi Jakarta Timur - DKI Jakarta"
+    },
+    {
+      
+      "key": "Kota Administrasi Jakarta Utara",
+      "value": "Kota Administrasi Jakarta Utara",
+      "text": "Kota Administrasi Jakarta Utara - DKI Jakarta"
+    },
+   
+    {
+      
+      "key": "Kab. Banjarnegara",
+      "value": "Kab. Banjarnegara",
+      "text": "Kab. Banjarnegara - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Banyumas",
+      "value": "Kab. Banyumas",
+      "text": "Kab. Banyumas - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Batang",
+      "value": "Kab. Batang",
+      "text": "Kab. Batang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Blora",
+      "value": "Kab. Blora",
+      "text": "Kab. Blora - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Boyolali",
+      "value": "Kab. Boyolali",
+      "text": "Kab. Boyolali - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Brebes",
+      "value": "Kab. Brebes",
+      "text": "Kab. Brebes - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Cilacap",
+      "value": "Kab. Cilacap",
+      "text": "Kab. Cilacap - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Demak",
+      "value": "Kab. Demak",
+      "text": "Kab. Demak - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Grobogan",
+      "value": "Kab. Grobogan",
+      "text": "Kab. Grobogan - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Jepara",
+      "value": "Kab. Jepara",
+      "text": "Kab. Jepara - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Karanganyar",
+      "value": "Kab. Karanganyar",
+      "text": "Kab. Karanganyar - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Kebumen",
+      "value": "Kab. Kebumen",
+      "text": "Kab. Kebumen - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Kendal",
+      "value": "Kab. Kendal",
+      "text": "Kab. Kendal - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Klaten",
+      "value": "Kab. Klaten",
+      "text": "Kab. Klaten - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Kudus",
+      "value": "Kab. Kudus",
+      "text": "Kab. Kudus - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Magelang",
+      "value": "Kab. Magelang",
+      "text": "Kab. Magelang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Pati",
+      "value": "Kab. Pati",
+      "text": "Kab. Pati - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Pekalongan",
+      "value": "Kab. Pekalongan",
+      "text": "Kab. Pekalongan - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Pemalang",
+      "value": "Kab. Pemalang",
+      "text": "Kab. Pemalang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Purbalingga",
+      "value": "Kab. Purbalingga",
+      "text": "Kab. Purbalingga - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Purworejo",
+      "value": "Kab. Purworejo",
+      "text": "Kab. Purworejo - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Rembang",
+      "value": "Kab. Rembang",
+      "text": "Kab. Rembang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Semarang",
+      "value": "Kab. Semarang",
+      "text": "Kab. Semarang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Sragen",
+      "value": "Kab. Sragen",
+      "text": "Kab. Sragen - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Sukoharjo",
+      "value": "Kab. Sukoharjo",
+      "text": "Kab. Sukoharjo - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Tegal",
+      "value": "Kab. Tegal",
+      "text": "Kab. Tegal - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Temanggung",
+      "value": "Kab. Temanggung",
+      "text": "Kab. Temanggung - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Wonogiri",
+      "value": "Kab. Wonogiri",
+      "text": "Kab. Wonogiri - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kab. Wonosobo",
+      "value": "Kab. Wonosobo",
+      "text": "Kab. Wonosobo - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kota Magelang",
+      "value": "Kota Magelang",
+      "text": "Kota Magelang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kota Pekalongan",
+      "value": "Kota Pekalongan",
+      "text": "Kota Pekalongan - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kota Salatiga",
+      "value": "Kota Salatiga",
+      "text": "Kota Salatiga - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kota Semarang",
+      "value": "Kota Semarang",
+      "text": "Kota Semarang - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kota Surakarta",
+      "value": "Kota Surakarta",
+      "text": "Kota Surakarta - Jawa Tengah"
+    },
+    {
+      
+      "key": "Kota Tegal",
+      "value": "Kota Tegal",
+      "text": "Kota Tegal - Jawa Tengah"
+    },
+   
+    {
+      
+      "key": "Kab. Bangkalan",
+      "value": "Kab. Bangkalan",
+      "text": "Kab. Bangkalan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Banyuwangi",
+      "value": "Kab. Banyuwangi",
+      "text": "Kab. Banyuwangi - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Blitar",
+      "value": "Kab. Blitar",
+      "text": "Kab. Blitar - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Bojonegoro",
+      "value": "Kab. Bojonegoro",
+      "text": "Kab. Bojonegoro - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Bondowoso",
+      "value": "Kab. Bondowoso",
+      "text": "Kab. Bondowoso - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Gresik",
+      "value": "Kab. Gresik",
+      "text": "Kab. Gresik - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Jember",
+      "value": "Kab. Jember",
+      "text": "Kab. Jember - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Jombang",
+      "value": "Kab. Jombang",
+      "text": "Kab. Jombang - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Kediri",
+      "value": "Kab. Kediri",
+      "text": "Kab. Kediri - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Lamongan",
+      "value": "Kab. Lamongan",
+      "text": "Kab. Lamongan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Lumajang",
+      "value": "Kab. Lumajang",
+      "text": "Kab. Lumajang - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Madiun",
+      "value": "Kab. Madiun",
+      "text": "Kab. Madiun - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Magetan",
+      "value": "Kab. Magetan",
+      "text": "Kab. Magetan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Malang",
+      "value": "Kab. Malang",
+      "text": "Kab. Malang - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Mojokerto",
+      "value": "Kab. Mojokerto",
+      "text": "Kab. Mojokerto - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Nganjuk",
+      "value": "Kab. Nganjuk",
+      "text": "Kab. Nganjuk - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Ngawi",
+      "value": "Kab. Ngawi",
+      "text": "Kab. Ngawi - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Pacitan",
+      "value": "Kab. Pacitan",
+      "text": "Kab. Pacitan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Pamekasan",
+      "value": "Kab. Pamekasan",
+      "text": "Kab. Pamekasan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Pasuruan",
+      "value": "Kab. Pasuruan",
+      "text": "Kab. Pasuruan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Ponorogo",
+      "value": "Kab. Ponorogo",
+      "text": "Kab. Ponorogo - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Probolinggo",
+      "value": "Kab. Probolinggo",
+      "text": "Kab. Probolinggo - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Sampang",
+      "value": "Kab. Sampang",
+      "text": "Kab. Sampang - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Sidoarjo",
+      "value": "Kab. Sidoarjo",
+      "text": "Kab. Sidoarjo - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Situbondo",
+      "value": "Kab. Situbondo",
+      "text": "Kab. Situbondo - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Sumenep",
+      "value": "Kab. Sumenep",
+      "text": "Kab. Sumenep - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Trenggalek",
+      "value": "Kab. Trenggalek",
+      "text": "Kab. Trenggalek - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Tuban",
+      "value": "Kab. Tuban",
+      "text": "Kab. Tuban - Jawa Timur"
+    },
+    {
+      
+      "key": "Kab. Tulungagung",
+      "value": "Kab. Tulungagung",
+      "text": "Kab. Tulungagung - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Batu",
+      "value": "Kota Batu",
+      "text": "Kota Batu - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Blitar",
+      "value": "Kota Blitar",
+      "text": "Kota Blitar - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Kediri",
+      "value": "Kota Kediri",
+      "text": "Kota Kediri - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Madiun",
+      "value": "Kota Madiun",
+      "text": "Kota Madiun - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Malang",
+      "value": "Kota Malang",
+      "text": "Kota Malang - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Mojokerto",
+      "value": "Kota Mojokerto",
+      "text": "Kota Mojokerto - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Pasuruan",
+      "value": "Kota Pasuruan",
+      "text": "Kota Pasuruan - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Probolinggo",
+      "value": "Kota Probolinggo",
+      "text": "Kota Probolinggo - Jawa Timur"
+    },
+    {
+      
+      "key": "Kota Surabaya",
+      "value": "Kota Surabaya",
+      "text": "Kota Surabaya - Jawa Timur"
+    },
+   
+    {
+      
+      "key": "Kab. Bantul",
+      "value": "Kab. Bantul",
+      "text": "Kab. Bantul - DI Yogyakarta"
+    },
+    {
+      
+      "key": "Kab. Gunungkidul",
+      "value": "Kab. Gunungkidul",
+      "text": "Kab. Gunungkidul - DI Yogyakarta"
+    },
+    {
+      
+      "key": "Kab. Kulon Progo",
+      "value": "Kab. Kulon Progo",
+      "text": "Kab. Kulon Progo - DI Yogyakarta"
+    },
+    {
+      
+      "key": "Kab. Sleman",
+      "value": "Kab. Sleman",
+      "text": "Kab. Sleman - DI Yogyakarta"
+    },
+    {
+      
+      "key": "Kota Yogyakarta",
+      "value": "Kota Yogyakarta",
+      "text": "Kota Yogyakarta - DI Yogyakarta"
+    },
+   
+    {
+      
+      "key": "Kab. Badung",
+      "value": "Kab. Badung",
+      "text": "Kab. Badung - Bali"
+    },
+    {
+      
+      "key": "Kab. Bangli",
+      "value": "Kab. Bangli",
+      "text": "Kab. Bangli - Bali"
+    },
+    {
+      
+      "key": "Kab. Buleleng",
+      "value": "Kab. Buleleng",
+      "text": "Kab. Buleleng - Bali"
+    },
+    {
+      
+      "key": "Kab. Gianyar",
+      "value": "Kab. Gianyar",
+      "text": "Kab. Gianyar - Bali"
+    },
+    {
+      
+      "key": "Kab. Jembrana",
+      "value": "Kab. Jembrana",
+      "text": "Kab. Jembrana - Bali"
+    },
+    {
+      
+      "key": "Kab. Karangasem",
+      "value": "Kab. Karangasem",
+      "text": "Kab. Karangasem - Bali"
+    },
+    {
+      
+      "key": "Kab. Klungkung",
+      "value": "Kab. Klungkung",
+      "text": "Kab. Klungkung - Bali"
+    },
+    {
+      
+      "key": "Kab. Tabanan",
+      "value": "Kab. Tabanan",
+      "text": "Kab. Tabanan - Bali"
+    },
+    {
+      
+      "key": "Kota Denpasar",
+      "value": "Kota Denpasar",
+      "text": "Kota Denpasar - Bali"
+    },
+   
+    {
+      
+      "key": "Kab. Bima",
+      "value": "Kab. Bima",
+      "text": "Kab. Bima - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Dompu",
+      "value": "Kab. Dompu",
+      "text": "Kab. Dompu - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Lombok Barat",
+      "value": "Kab. Lombok Barat",
+      "text": "Kab. Lombok Barat - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Lombok Tengah",
+      "value": "Kab. Lombok Tengah",
+      "text": "Kab. Lombok Tengah - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Lombok Timur",
+      "value": "Kab. Lombok Timur",
+      "text": "Kab. Lombok Timur - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Lombok Utara",
+      "value": "Kab. Lombok Utara",
+      "text": "Kab. Lombok Utara - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Sumbawa",
+      "value": "Kab. Sumbawa",
+      "text": "Kab. Sumbawa - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kab. Sumbawa Barat",
+      "value": "Kab. Sumbawa Barat",
+      "text": "Kab. Sumbawa Barat - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kota Bima",
+      "value": "Kota Bima",
+      "text": "Kota Bima - Nusa Tenggara Barat"
+    },
+    {
+      
+      "key": "Kota Mataram",
+      "value": "Kota Mataram",
+      "text": "Kota Mataram - Nusa Tenggara Barat"
+    },
+   
+    {
+      
+      "key": "Kab. Alor",
+      "value": "Kab. Alor",
+      "text": "Kab. Alor - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Belu",
+      "value": "Kab. Belu",
+      "text": "Kab. Belu - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Ende",
+      "value": "Kab. Ende",
+      "text": "Kab. Ende - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Flores Timur",
+      "value": "Kab. Flores Timur",
+      "text": "Kab. Flores Timur - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Kupang",
+      "value": "Kab. Kupang",
+      "text": "Kab. Kupang - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Lembata",
+      "value": "Kab. Lembata",
+      "text": "Kab. Lembata - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Malaka",
+      "value": "Kab. Malaka",
+      "text": "Kab. Malaka - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Manggarai",
+      "value": "Kab. Manggarai",
+      "text": "Kab. Manggarai - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Manggarai Barat",
+      "value": "Kab. Manggarai Barat",
+      "text": "Kab. Manggarai Barat - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Manggarai Timur",
+      "value": "Kab. Manggarai Timur",
+      "text": "Kab. Manggarai Timur - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Nagekeo",
+      "value": "Kab. Nagekeo",
+      "text": "Kab. Nagekeo - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Ngada",
+      "value": "Kab. Ngada",
+      "text": "Kab. Ngada - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Rote Ndao",
+      "value": "Kab. Rote Ndao",
+      "text": "Kab. Rote Ndao - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Sabu Raijua",
+      "value": "Kab. Sabu Raijua",
+      "text": "Kab. Sabu Raijua - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Sikka",
+      "value": "Kab. Sikka",
+      "text": "Kab. Sikka - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Sumba Barat",
+      "value": "Kab. Sumba Barat",
+      "text": "Kab. Sumba Barat - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Sumba Barat Daya",
+      "value": "Kab. Sumba Barat Daya",
+      "text": "Kab. Sumba Barat Daya - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Sumba Tengah",
+      "value": "Kab. Sumba Tengah",
+      "text": "Kab. Sumba Tengah - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Sumba Timur",
+      "value": "Kab. Sumba Timur",
+      "text": "Kab. Sumba Timur - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Timor Tengah Selatan",
+      "value": "Kab. Timor Tengah Selatan",
+      "text": "Kab. Timor Tengah Selatan - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kab. Timor Tengah Utara",
+      "value": "Kab. Timor Tengah Utara",
+      "text": "Kab. Timor Tengah Utara - Nusa Tenggara Timur"
+    },
+    {
+      
+      "key": "Kota Kupang",
+      "value": "Kota Kupang",
+      "text": "Kota Kupang - Nusa Tenggara Timur"
+    },
+   
+    {
+      
+      "key": "Kab. Bengkayang",
+      "value": "Kab. Bengkayang",
+      "text": "Kab. Bengkayang - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Kapuas Hulu",
+      "value": "Kab. Kapuas Hulu",
+      "text": "Kab. Kapuas Hulu - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Kayong Utara",
+      "value": "Kab. Kayong Utara",
+      "text": "Kab. Kayong Utara - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Ketapang",
+      "value": "Kab. Ketapang",
+      "text": "Kab. Ketapang - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Kubu Raya",
+      "value": "Kab. Kubu Raya",
+      "text": "Kab. Kubu Raya - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Landak",
+      "value": "Kab. Landak",
+      "text": "Kab. Landak - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Melawi",
+      "value": "Kab. Melawi",
+      "text": "Kab. Melawi - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Mempawah",
+      "value": "Kab. Mempawah",
+      "text": "Kab. Mempawah - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Sambas",
+      "value": "Kab. Sambas",
+      "text": "Kab. Sambas - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Sanggau",
+      "value": "Kab. Sanggau",
+      "text": "Kab. Sanggau - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Sekadau",
+      "value": "Kab. Sekadau",
+      "text": "Kab. Sekadau - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kab. Sintang",
+      "value": "Kab. Sintang",
+      "text": "Kab. Sintang - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kota Pontianak",
+      "value": "Kota Pontianak",
+      "text": "Kota Pontianak - Kalimantan Barat"
+    },
+    {
+      
+      "key": "Kota Singkawang",
+      "value": "Kota Singkawang",
+      "text": "Kota Singkawang - Kalimantan Barat"
+    },
+   
+    {
+      
+      "key": "Kab. Balangan",
+      "value": "Kab. Balangan",
+      "text": "Kab. Balangan - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Banjar",
+      "value": "Kab. Banjar",
+      "text": "Kab. Banjar - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Barito Kuala",
+      "value": "Kab. Barito Kuala",
+      "text": "Kab. Barito Kuala - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Hulu Sungai Selatan",
+      "value": "Kab. Hulu Sungai Selatan",
+      "text": "Kab. Hulu Sungai Selatan - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Hulu Sungai Tengah",
+      "value": "Kab. Hulu Sungai Tengah",
+      "text": "Kab. Hulu Sungai Tengah - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Hulu Sungai Utara",
+      "value": "Kab. Hulu Sungai Utara",
+      "text": "Kab. Hulu Sungai Utara - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Kotabaru",
+      "value": "Kab. Kotabaru",
+      "text": "Kab. Kotabaru - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Tabalong",
+      "value": "Kab. Tabalong",
+      "text": "Kab. Tabalong - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Tanah Bumbu",
+      "value": "Kab. Tanah Bumbu",
+      "text": "Kab. Tanah Bumbu - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Tanah Laut",
+      "value": "Kab. Tanah Laut",
+      "text": "Kab. Tanah Laut - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kab. Tapin",
+      "value": "Kab. Tapin",
+      "text": "Kab. Tapin - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kota Banjarbaru",
+      "value": "Kota Banjarbaru",
+      "text": "Kota Banjarbaru - Kalimantan Selatan"
+    },
+    {
+      
+      "key": "Kota Banjarmasin",
+      "value": "Kota Banjarmasin",
+      "text": "Kota Banjarmasin - Kalimantan Selatan"
+    },
+   
+    {
+      
+      "key": "Kab. Barito Selatan",
+      "value": "Kab. Barito Selatan",
+      "text": "Kab. Barito Selatan - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Barito Timur",
+      "value": "Kab. Barito Timur",
+      "text": "Kab. Barito Timur - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Barito Utara",
+      "value": "Kab. Barito Utara",
+      "text": "Kab. Barito Utara - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Gunung Mas",
+      "value": "Kab. Gunung Mas",
+      "text": "Kab. Gunung Mas - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Kapuas",
+      "value": "Kab. Kapuas",
+      "text": "Kab. Kapuas - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Katingan",
+      "value": "Kab. Katingan",
+      "text": "Kab. Katingan - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Kotawaringin Barat",
+      "value": "Kab. Kotawaringin Barat",
+      "text": "Kab. Kotawaringin Barat - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Kotawaringin Timur",
+      "value": "Kab. Kotawaringin Timur",
+      "text": "Kab. Kotawaringin Timur - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Lamandau",
+      "value": "Kab. Lamandau",
+      "text": "Kab. Lamandau - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Murung Raya",
+      "value": "Kab. Murung Raya",
+      "text": "Kab. Murung Raya - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Pulang Pisau",
+      "value": "Kab. Pulang Pisau",
+      "text": "Kab. Pulang Pisau - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Sukamara",
+      "value": "Kab. Sukamara",
+      "text": "Kab. Sukamara - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kab. Seruyan",
+      "value": "Kab. Seruyan",
+      "text": "Kab. Seruyan - Kalimantan Tengah"
+    },
+    {
+      
+      "key": "Kota Palangka Raya",
+      "value": "Kota Palangka Raya",
+      "text": "Kota Palangka Raya - Kalimantan Tengah"
+    },
+   
+    {
+      
+      "key": "Kab. Berau",
+      "value": "Kab. Berau",
+      "text": "Kab. Berau - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kab. Kutai Barat",
+      "value": "Kab. Kutai Barat",
+      "text": "Kab. Kutai Barat - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kab. Kutai Kartanegara",
+      "value": "Kab. Kutai Kartanegara",
+      "text": "Kab. Kutai Kartanegara - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kab. Kutai Timur",
+      "value": "Kab. Kutai Timur",
+      "text": "Kab. Kutai Timur - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kab. Mahakam Ulu",
+      "value": "Kab. Mahakam Ulu",
+      "text": "Kab. Mahakam Ulu - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kab. Paser",
+      "value": "Kab. Paser",
+      "text": "Kab. Paser - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kab. Penajam Paser Utara",
+      "value": "Kab. Penajam Paser Utara",
+      "text": "Kab. Penajam Paser Utara - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kota Balikpapan",
+      "value": "Kota Balikpapan",
+      "text": "Kota Balikpapan - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kota Bontang",
+      "value": "Kota Bontang",
+      "text": "Kota Bontang - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kota Nusantara",
+      "value": "Kota Nusantara",
+      "text": "Kota Nusantara - Kalimantan Timur"
+    },
+    {
+      
+      "key": "Kota Samarinda",
+      "value": "Kota Samarinda",
+      "text": "Kota Samarinda - Kalimantan Timur"
+    },
+   
+    {
+      
+      "key": "Kab. Bulungan",
+      "value": "Kab. Bulungan",
+      "text": "Kab. Bulungan - Kalimantan Utara"
+    },
+    {
+      
+      "key": "Kab. Malinau",
+      "value": "Kab. Malinau",
+      "text": "Kab. Malinau - Kalimantan Utara"
+    },
+    {
+      
+      "key": "Kab. Nunukan",
+      "value": "Kab. Nunukan",
+      "text": "Kab. Nunukan - Kalimantan Utara"
+    },
+    {
+      
+      "key": "Kab. Tana Tidung",
+      "value": "Kab. Tana Tidung",
+      "text": "Kab. Tana Tidung - Kalimantan Utara"
+    },
+    {
+      
+      "key": "Kota Tarakan",
+      "value": "Kota Tarakan",
+      "text": "Kota Tarakan - Kalimantan Utara"
+    },
+   
+    {
+      
+      "key": "Kab. Boalemo",
+      "value": "Kab. Boalemo",
+      "text": "Kab. Boalemo - Gorontalo"
+    },
+    {
+      
+      "key": "Kab. Bone Bolango",
+      "value": "Kab. Bone Bolango",
+      "text": "Kab. Bone Bolango - Gorontalo"
+    },
+    {
+      
+      "key": "Kab. Gorontalo",
+      "value": "Kab. Gorontalo",
+      "text": "Kab. Gorontalo - Gorontalo"
+    },
+    {
+      
+      "key": "Kab. Gorontalo Utara",
+      "value": "Kab. Gorontalo Utara",
+      "text": "Kab. Gorontalo Utara - Gorontalo"
+    },
+    {
+      
+      "key": "Kab. Pohuwato",
+      "value": "Kab. Pohuwato",
+      "text": "Kab. Pohuwato - Gorontalo"
+    },
+    {
+      
+      "key": "Kota Gorontalo",
+      "value": "Kota Gorontalo",
+      "text": "Kota Gorontalo - Gorontalo"
+    },
+   
+    {
+      
+      "key": "Kab. Bantaeng",
+      "value": "Kab. Bantaeng",
+      "text": "Kab. Bantaeng - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Barru",
+      "value": "Kab. Barru",
+      "text": "Kab. Barru - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Bone",
+      "value": "Kab. Bone",
+      "text": "Kab. Bone - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Bulukumba",
+      "value": "Kab. Bulukumba",
+      "text": "Kab. Bulukumba - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Enrekang",
+      "value": "Kab. Enrekang",
+      "text": "Kab. Enrekang - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Gowa",
+      "value": "Kab. Gowa",
+      "text": "Kab. Gowa - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Jeneponto",
+      "value": "Kab. Jeneponto",
+      "text": "Kab. Jeneponto - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Selayar",
+      "value": "Kab. Kepulauan Selayar",
+      "text": "Kab. Kepulauan Selayar - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Luwu",
+      "value": "Kab. Luwu",
+      "text": "Kab. Luwu - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Luwu Timur",
+      "value": "Kab. Luwu Timur",
+      "text": "Kab. Luwu Timur - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Luwu Utara",
+      "value": "Kab. Luwu Utara",
+      "text": "Kab. Luwu Utara - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Maros",
+      "value": "Kab. Maros",
+      "text": "Kab. Maros - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Pangkajene dan Kepulauan",
+      "value": "Kab. Pangkajene dan Kepulauan",
+      "text": "Kab. Pangkajene dan Kepulauan - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Pinrang",
+      "value": "Kab. Pinrang",
+      "text": "Kab. Pinrang - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Sidenreng Rappang",
+      "value": "Kab. Sidenreng Rappang",
+      "text": "Kab. Sidenreng Rappang - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Sinjai",
+      "value": "Kab. Sinjai",
+      "text": "Kab. Sinjai - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Soppeng",
+      "value": "Kab. Soppeng",
+      "text": "Kab. Soppeng - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Takalar",
+      "value": "Kab. Takalar",
+      "text": "Kab. Takalar - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Tana Toraja",
+      "value": "Kab. Tana Toraja",
+      "text": "Kab. Tana Toraja - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Toraja Utara",
+      "value": "Kab. Toraja Utara",
+      "text": "Kab. Toraja Utara - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kab. Wajo",
+      "value": "Kab. Wajo",
+      "text": "Kab. Wajo - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kota Makassar",
+      "value": "Kota Makassar",
+      "text": "Kota Makassar - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kota Palopo",
+      "value": "Kota Palopo",
+      "text": "Kota Palopo - Sulawesi Selatan"
+    },
+    {
+      
+      "key": "Kota Parepare",
+      "value": "Kota Parepare",
+      "text": "Kota Parepare - Sulawesi Selatan"
+    },
+   
+    {
+      
+      "key": "Kab. Bombana",
+      "value": "Kab. Bombana",
+      "text": "Kab. Bombana - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Buton",
+      "value": "Kab. Buton",
+      "text": "Kab. Buton - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Buton Selatan",
+      "value": "Kab. Buton Selatan",
+      "text": "Kab. Buton Selatan - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Buton Tengah",
+      "value": "Kab. Buton Tengah",
+      "text": "Kab. Buton Tengah - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Buton Utara",
+      "value": "Kab. Buton Utara",
+      "text": "Kab. Buton Utara - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Kolaka",
+      "value": "Kab. Kolaka",
+      "text": "Kab. Kolaka - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Kolaka Timur",
+      "value": "Kab. Kolaka Timur",
+      "text": "Kab. Kolaka Timur - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Kolaka Utara",
+      "value": "Kab. Kolaka Utara",
+      "text": "Kab. Kolaka Utara - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Konawe",
+      "value": "Kab. Konawe",
+      "text": "Kab. Konawe - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Konawe Kepulauan",
+      "value": "Kab. Konawe Kepulauan",
+      "text": "Kab. Konawe Kepulauan - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Konawe Selatan",
+      "value": "Kab. Konawe Selatan",
+      "text": "Kab. Konawe Selatan - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Konawe Utara",
+      "value": "Kab. Konawe Utara",
+      "text": "Kab. Konawe Utara - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Muna",
+      "value": "Kab. Muna",
+      "text": "Kab. Muna - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Muna Barat",
+      "value": "Kab. Muna Barat",
+      "text": "Kab. Muna Barat - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kab. Wakatobi",
+      "value": "Kab. Wakatobi",
+      "text": "Kab. Wakatobi - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kota Baubau",
+      "value": "Kota Baubau",
+      "text": "Kota Baubau - Sulawesi Tenggara"
+    },
+    {
+      
+      "key": "Kota Kendari",
+      "value": "Kota Kendari",
+      "text": "Kota Kendari - Sulawesi Tenggara"
+    },
+   
+    {
+      
+      "key": "Kab. Banggai",
+      "value": "Kab. Banggai",
+      "text": "Kab. Banggai - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Banggai Kepulauan",
+      "value": "Kab. Banggai Kepulauan",
+      "text": "Kab. Banggai Kepulauan - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Banggai Laut",
+      "value": "Kab. Banggai Laut",
+      "text": "Kab. Banggai Laut - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Buol",
+      "value": "Kab. Buol",
+      "text": "Kab. Buol - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Donggala",
+      "value": "Kab. Donggala",
+      "text": "Kab. Donggala - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Morowali",
+      "value": "Kab. Morowali",
+      "text": "Kab. Morowali - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Morowali Utara",
+      "value": "Kab. Morowali Utara",
+      "text": "Kab. Morowali Utara - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Parigi Moutong",
+      "value": "Kab. Parigi Moutong",
+      "text": "Kab. Parigi Moutong - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Poso",
+      "value": "Kab. Poso",
+      "text": "Kab. Poso - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Sigi",
+      "value": "Kab. Sigi",
+      "text": "Kab. Sigi - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Tojo Una-Una",
+      "value": "Kab. Tojo Una-Una",
+      "text": "Kab. Tojo Una-Una - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kab. Tolitoli",
+      "value": "Kab. Tolitoli",
+      "text": "Kab. Tolitoli - Sulawesi Tengah"
+    },
+    {
+      
+      "key": "Kota Palu",
+      "value": "Kota Palu",
+      "text": "Kota Palu - Sulawesi Tengah"
+    },
+
+    {
+      
+      "key": "Kab. Bolaang Mongondow",
+      "value": "Kab. Bolaang Mongondow",
+      "text": "Kab. Bolaang Mongondow - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Bolaang Mongondow Selatan",
+      "value": "Kab. Bolaang Mongondow Selatan",
+      "text": "Kab. Bolaang Mongondow Selatan - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Bolaang Mongondow Timur",
+      "value": "Kab. Bolaang Mongondow Timur",
+      "text": "Kab. Bolaang Mongondow Timur - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Bolaang Mongondow Utara",
+      "value": "Kab. Bolaang Mongondow Utara",
+      "text": "Kab. Bolaang Mongondow Utara - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Sangihe",
+      "value": "Kab. Kepulauan Sangihe",
+      "text": "Kab. Kepulauan Sangihe - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Siau Tagulandang Biaro",
+      "value": "Kab. Kepulauan Siau Tagulandang Biaro",
+      "text": "Kab. Kepulauan Siau Tagulandang Biaro - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Talaud",
+      "value": "Kab. Kepulauan Talaud",
+      "text": "Kab. Kepulauan Talaud - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Minahasa",
+      "value": "Kab. Minahasa",
+      "text": "Kab. Minahasa - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Minahasa Selatan",
+      "value": "Kab. Minahasa Selatan",
+      "text": "Kab. Minahasa Selatan - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Minahasa Tenggara",
+      "value": "Kab. Minahasa Tenggara",
+      "text": "Kab. Minahasa Tenggara - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kab. Minahasa Utara",
+      "value": "Kab. Minahasa Utara",
+      "text": "Kab. Minahasa Utara - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kota Bitung",
+      "value": "Kota Bitung",
+      "text": "Kota Bitung - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kota Kotamobagu",
+      "value": "Kota Kotamobagu",
+      "text": "Kota Kotamobagu - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kota Manado",
+      "value": "Kota Manado",
+      "text": "Kota Manado - Sulawesi Utara"
+    },
+    {
+      
+      "key": "Kota Tomohon",
+      "value": "Kota Tomohon",
+      "text": "Kota Tomohon - Sulawesi Utara"
+    },
+   
+    {
+      
+      "key": "Kab. Majene",
+      "value": "Kab. Majene",
+      "text": "Kab. Majene - Sulawesi Barat"
+    },
+    {
+      
+      "key": "Kab. Mamasa",
+      "value": "Kab. Mamasa",
+      "text": "Kab. Mamasa - Sulawesi Barat"
+    },
+    {
+      
+      "key": "Kab. Mamuju",
+      "value": "Kab. Mamuju",
+      "text": "Kab. Mamuju - Sulawesi Barat"
+    },
+    {
+      
+      "key": "Kab. Mamuju Tengah",
+      "value": "Kab. Mamuju Tengah",
+      "text": "Kab. Mamuju Tengah - Sulawesi Barat"
+    },
+    {
+      
+      "key": "Kab. Pasangkayu",
+      "value": "Kab. Pasangkayu",
+      "text": "Kab. Pasangkayu - Sulawesi Barat"
+    },
+    {
+      
+      "key": "Kab. Polewali Mandar",
+      "value": "Kab. Polewali Mandar",
+      "text": "Kab. Polewali Mandar - Sulawesi Barat"
+    },
+  
+   
+  
+    {
+      
+      "key": "Kab. Buru",
+      "value": "Kab. Buru",
+      "text": "Kab. Buru - Maluku"
+    },
+    {
+      
+      "key": "Kab. Buru Selatan",
+      "value": "Kab. Buru Selatan",
+      "text": "Kab. Buru Selatan - Maluku"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Aru",
+      "value": "Kab. Kepulauan Aru",
+      "text": "Kab. Kepulauan Aru - Maluku"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Tanimbar",
+      "value": "Kab. Kepulauan Tanimbar",
+      "text": "Kab. Kepulauan Tanimbar - Maluku"
+    },
+    {
+      
+      "key": "Kab. Maluku Barat Daya",
+      "value": "Kab. Maluku Barat Daya",
+      "text": "Kab. Maluku Barat Daya - Maluku"
+    },
+    {
+      
+      "key": "Kab. Maluku Tengah",
+      "value": "Kab. Maluku Tengah",
+      "text": "Kab. Maluku Tengah - Maluku"
+    },
+    {
+      
+      "key": "Kab. Maluku Tenggara",
+      "value": "Kab. Maluku Tenggara",
+      "text": "Kab. Maluku Tenggara - Maluku"
+    },
+    {
+      
+      "key": "Kab. Seram Bagian Barat",
+      "value": "Kab. Seram Bagian Barat",
+      "text": "Kab. Seram Bagian Barat - Maluku"
+    },
+    {
+      
+      "key": "Kab. Seram Bagian Timur",
+      "value": "Kab. Seram Bagian Timur",
+      "text": "Kab. Seram Bagian Timur - Maluku"
+    },
+    {
+      
+      "key": "Kota Ambon",
+      "value": "Kota Ambon",
+      "text": "Kota Ambon - Maluku"
+    },
+    {
+      
+      "key": "Kota Tual",
+      "value": "Kota Tual",
+      "text": "Kota Tual - Maluku"
+    },
+   
+    {
+      
+      "key": "Kab. Halmahera Barat",
+      "value": "Kab. Halmahera Barat",
+      "text": "Kab. Halmahera Barat - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Halmahera Tengah",
+      "value": "Kab. Halmahera Tengah",
+      "text": "Kab. Halmahera Tengah - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Halmahera Timur",
+      "value": "Kab. Halmahera Timur",
+      "text": "Kab. Halmahera Timur - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Halmahera Selatan",
+      "value": "Kab. Halmahera Selatan",
+      "text": "Kab. Halmahera Selatan - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Halmahera Utara",
+      "value": "Kab. Halmahera Utara",
+      "text": "Kab. Halmahera Utara - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Sula",
+      "value": "Kab. Kepulauan Sula",
+      "text": "Kab. Kepulauan Sula - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Pulau Morotai",
+      "value": "Kab. Pulau Morotai",
+      "text": "Kab. Pulau Morotai - Maluku Utara"
+    },
+    {
+      
+      "key": "Kab. Pulau Taliabu",
+      "value": "Kab. Pulau Taliabu",
+      "text": "Kab. Pulau Taliabu - Maluku Utara"
+    },
+    {
+      
+      "key": "Kota Ternate",
+      "value": "Kota Ternate",
+      "text": "Kota Ternate - Maluku Utara"
+    },
+    {
+      
+      "key": "Kota Tidore Kepulauan",
+      "value": "Kota Tidore Kepulauan",
+      "text": "Kota Tidore Kepulauan - Maluku Utara"
+    },
+   
+    {
+      
+      "key": "Kab. Biak Numfor",
+      "value": "Kab. Biak Numfor",
+      "text": "Kab. Biak Numfor - Papua"
+    },
+    {
+      
+      "key": "Kab. Jayapura",
+      "value": "Kab. Jayapura",
+      "text": "Kab. Jayapura - Papua"
+    },
+    {
+      
+      "key": "Kab. Keerom",
+      "value": "Kab. Keerom",
+      "text": "Kab. Keerom - Papua"
+    },
+    {
+      
+      "key": "Kab. Kepulauan Yapen",
+      "value": "Kab. Kepulauan Yapen",
+      "text": "Kab. Kepulauan Yapen - Papua"
+    },
+    {
+      
+      "key": "Kab. Mamberamo Raya",
+      "value": "Kab. Mamberamo Raya",
+      "text": "Kab. Mamberamo Raya - Papua"
+    },
+    {
+      
+      "key": "Kab. Sarmi",
+      "value": "Kab. Sarmi",
+      "text": "Kab. Sarmi - Papua"
+    },
+    {
+      
+      "key": "Kab. Supiori",
+      "value": "Kab. Supiori",
+      "text": "Kab. Supiori - Papua"
+    },
+    {
+      
+      "key": "Kab. Waropen",
+      "value": "Kab. Waropen",
+      "text": "Kab. Waropen - Papua"
+    },
+    {
+      
+      "key": "Kota Jayapura",
+      "value": "Kota Jayapura",
+      "text": "Kota Jayapura - Papua"
+    },
+   
+    {
+      
+      "key": "Kab. Fakfak",
+      "value": "Kab. Fakfak",
+      "text": "Kab. Fakfak - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Kaimana",
+      "value": "Kab. Kaimana",
+      "text": "Kab. Kaimana - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Manokwari",
+      "value": "Kab. Manokwari",
+      "text": "Kab. Manokwari - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Manokwari Selatan",
+      "value": "Kab. Manokwari Selatan",
+      "text": "Kab. Manokwari Selatan - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Maybrat",
+      "value": "Kab. Maybrat",
+      "text": "Kab. Maybrat - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Pegunungan Arfak",
+      "value": "Kab. Pegunungan Arfak",
+      "text": "Kab. Pegunungan Arfak - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Raja Ampat",
+      "value": "Kab. Raja Ampat",
+      "text": "Kab. Raja Ampat - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Sorong",
+      "value": "Kab. Sorong",
+      "text": "Kab. Sorong - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Sorong Selatan",
+      "value": "Kab. Sorong Selatan",
+      "text": "Kab. Sorong Selatan - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Tambrauw",
+      "value": "Kab. Tambrauw",
+      "text": "Kab. Tambrauw - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Teluk Bintuni",
+      "value": "Kab. Teluk Bintuni",
+      "text": "Kab. Teluk Bintuni - Papua Barat"
+    },
+    {
+      
+      "key": "Kab. Teluk Wondama",
+      "value": "Kab. Teluk Wondama",
+      "text": "Kab. Teluk Wondama - Papua Barat"
+    },
+    {
+      
+      "key": "Kota Sorong",
+      "value": "Kota Sorong",
+      "text": "Kota Sorong - Papua Barat"
+    },
+   
+    {
+      
+      "key": "Kab. Deiyai",
+      "value": "Kab. Deiyai",
+      "text": "Kab. Deiyai - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Dogiyai",
+      "value": "Kab. Dogiyai",
+      "text": "Kab. Dogiyai - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Intan Jaya",
+      "value": "Kab. Intan Jaya",
+      "text": "Kab. Intan Jaya - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Mimika",
+      "value": "Kab. Mimika",
+      "text": "Kab. Mimika - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Nabire",
+      "value": "Kab. Nabire",
+      "text": "Kab. Nabire - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Paniai",
+      "value": "Kab. Paniai",
+      "text": "Kab. Paniai - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Puncak",
+      "value": "Kab. Puncak",
+      "text": "Kab. Puncak - Papua Tengah"
+    },
+    {
+      
+      "key": "Kab. Puncak Jaya",
+      "value": "Kab. Puncak Jaya",
+      "text": "Kab. Puncak Jaya - Papua Tengah"
+    },
+   
+    {
+      
+      "key": "Kab. Jayawijaya",
+      "value": "Kab. Jayawijaya",
+      "text": "Kab. Jayawijaya - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Lanny Jaya",
+      "value": "Kab. Lanny Jaya",
+      "text": "Kab. Lanny Jaya - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Mamberamo Tengah",
+      "value": "Kab. Mamberamo Tengah",
+      "text": "Kab. Mamberamo Tengah - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Nduga",
+      "value": "Kab. Nduga",
+      "text": "Kab. Nduga - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Pegunungan Bintang",
+      "value": "Kab. Pegunungan Bintang",
+      "text": "Kab. Pegunungan Bintang - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Tolikara",
+      "value": "Kab. Tolikara",
+      "text": "Kab. Tolikara - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Yalimo",
+      "value": "Kab. Yalimo",
+      "text": "Kab. Yalimo - Papua Pegunungan"
+    },
+    {
+      
+      "key": "Kab. Yahukimo",
+      "value": "Kab. Yahukimo",
+      "text": "Kab. Yahukimo - Papua Pegunungan"
+    },
+   
+    {
+      
+      "key": "Kab. Asmat",
+      "value": "Kab. Asmat",
+      "text": "Kab. Asmat - Papua Selatan"
+    },
+    {
+      
+      "key": "Kab. Boven Digoel",
+      "value": "Kab. Boven Digoel",
+      "text": "Kab. Boven Digoel - Papua Selatan"
+    },
+    {
+      
+      "key": "Kab. Mappi",
+      "value": "Kab. Mappi",
+      "text": "Kab. Mappi - Papua Selatan"
+    },
+    {
+      
+      "key": "Kab. Merauke",
+      "value": "Kab. Merauke",
+      "text": "Kab. Merauke - Papua Selatan"
+    },
+  
+   
+    {
+      
+      "key": "Cape Town",
+      "value": "Cape Town",
+      "text": "Cape Town - Afrika Selatan"
+    },
+    {
+      
+      "key": "Washington, D.C.",
+      "value": "Washington, D.C.",
+      "text": "Washington, D.C. - Amerika Serikat"
+    },
+    {
+      
+      "key": "Riyadh",
+      "value": "Riyadh",
+      "text": "Riyadh - Arab Saudi"
+    },
+    {
+      
+      "key": "Buenos Aires",
+      "value": "Buenos Aires",
+      "text": "Buenos Aires - Argentina"
+    },
+    {
+      
+      "key": "Canberra",
+      "value": "Canberra",
+      "text": "Canberra -  Australia"
+    },
+    {
+      
+      "key": "Brasília",
+      "value": "Brasília",
+      "text": "Brasília -  Brasil"
+    },
+    {
+      
+      "key": "New Delhi",
+      "value": "New Delhi",
+      "text": "New Delhi -  India"
+    },
+    {
+      
+      "key": "London",
+      "value": "London",
+      "text": "London -  Inggris"
+    },
+    {
+      
+      "key": "Rome",
+      "value": "Rome",
+      "text": "Rome - Italia"
+    },
+    {
+      
+      "key": "Tokyo",
+      "value": "Tokyo",
+      "text": "Tokyo - Jepang"
+    },
+    {
+      
+      "key": "Berlin",
+      "value": "Berlin",
+      "text": "Berlin - Jerman"
+    },
+    {
+      
+      "key": "Ottawa",
+      "value": "Ottawa",
+      "text": "Ottawa - Kanada"
+    },
+    {
+      
+      "key": "Mexico City",
+      "value": "Mexico City",
+      "text": "Mexico City - Meksiko"
+    },
+    {
+      
+      "key": "Pyongyang",
+      "value": "Pyongyang",
+      "text": "Pyongyang - Republik korea utara"
+    },
+    {
+      
+      "key": "Moscow",
+      "value": "Moscow",
+      "text": "Moscow - Rusia"
+    },
+    {
+      
+      "key": "Paris",
+      "value": "Paris",
+      "text": "Paris - Perancis"
+    },
+    {
+      
+      "key": "Beijing",
+      "value": "Beijing",
+      "text": "Beijing - Tiongkok"
+    },
+    {
+      
+      "key": "Ankara",
+      "value": "Ankara",
+      "text": "Ankara - Turki"
+    },
+    {
+      
+      "key": "Brussel",
+      "value": "Brussel",
+      "text": "Brussel - Uni Eropa"
+    },
+    {
+      
+      "key": "Bandar Seri Begawan",
+      "value": "Bandar Seri Begawan",
+      "text": "Bandar Seri Begawan - Brunei Darussalam"
+    },
+    {
+      
+      "key": "Phnom Penh",
+      "value": "Phnom Penh",
+      "text": "Phnom Penh - Kamboja"
+    },
+    {
+      
+      "key": "Vientiane",
+      "value": "Vientiane",
+      "text": "Vientiane - Laos"
+    },
+    {
+      
+      "key": "Kuala Lumpur",
+      "value": "Kuala Lumpur",
+      "text": "Kuala Lumpur - Malaysia"
+    },
+    {
+      
+      "key": "Naypyidaw",
+      "value": "Naypyidaw",
+      "text": "Naypyidaw - Myanmar"
+    },
+    {
+      
+      "key": "Manila",
+      "value": "Manila",
+      "text": "Manila - Filipina"
+    },
+    {
+      
+      "key": "Singapura",
+      "value": "Singapura",
+      "text": "Singapura - Singapura"
+    },
+    {
+      
+      "key": "Afghanistan",
+      "value": "Afghanistan",
+      "text": "Afghanistan - Kabul "
+    },
+    {
+      
+      "key": "Yerevan ",
+      "value": "Yerevan ",
+      "text": "Yerevan  - Armenia "
+    },
+    {
+      
+      "key": "Azerbaijan",
+      "value": "Azerbaijan",
+      "text": "Azerbaijan - Baku   "
+    },
+    {
+      
+      "key": "Manama ",
+      "value": "Manama ",
+      "text": "Manama  - Bahrain "
+    },
+    {
+      
+      "key": "Dhaka ",
+      "value": "Dhaka ",
+      "text": "Dhaka  - Banglades "
+    },
+    {
+      
+      "key": "Thimphu ",
+      "value": "Thimphu ",
+      "text": "Thimphu  - Bhutan "
+    },
+    {
+      
+      "key": "Beijing ",
+      "value": "Beijing ",
+      "text": "Beijing  - China "
+    },
+    {
+      
+      "key": "Teheran ",
+      "value": "Teheran ",
+      "text": "Teheran  - Iran "
+    },
+    {
+      
+      "key": "Hanoi",
+      "value": "Hanoi",
+      "text": "Hanoi - Vietnam "
+    }
+  ]
+  
