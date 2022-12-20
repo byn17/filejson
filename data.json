@@ -1,0 +1,18 @@
+[
+    {
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD)",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
+    {
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 1",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
+    {
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 2",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
+    {
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 2",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    }
+]
