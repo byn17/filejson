@@ -1,6 +1,10 @@
 [
     {
-        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD)",
+        "title" : "Seandainya Pileg DPR RI dilaksanakan hari ini, Partai apa yang akan Bapak/ Ibu/ Saudara pilih ?",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
+    {
+        "title" : "Partai apa yang Bapak/Ibu/Sdr pilih saat tahun 2019 ?",
         "quistion" : ["ya", "tidak", "ragu-ragu"]
     },
     {
@@ -12,7 +16,19 @@
         "quistion" : ["ya", "tidak", "ragu-ragu"]
     },
     {
-        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 2",
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 3",
         "quistion" : ["ya", "tidak", "ragu-ragu"]
-    }
+    },
+    {
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 4",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
+    {
+        "title" : "PENILAIAN KINERJA PEMERINTAH KABUPATEN BANDUNG (DPR RI/DPRD) 5",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
+     {
+        "title" : "Partai apa yang Bapak/Ibu/Sdr pilih saat tahun 2019 ?",
+        "quistion" : ["ya", "tidak", "ragu-ragu"]
+    },
 ]
